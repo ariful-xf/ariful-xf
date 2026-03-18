@@ -27,7 +27,7 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
 ## 🛠️ Languages & Tools
 
 ### Frontend
-<div align="center">
+<div align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,7 +41,7 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
 </div>
 
 ### Backend
-<div align="center">
+<div align="left">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -51,7 +51,7 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
  
 
 ### Tools & Libraries
-<div align="center">
+<div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
