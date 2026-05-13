@@ -7,8 +7,8 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/ariful97768?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ariful97768)
-[![GitHub Stars](https://img.shields.io/github/stars/ariful97768?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ariful97768)
+[![GitHub followers](https://img.shields.io/github/followers/ariful-xf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ariful-xf)
+[![GitHub Stars](https://img.shields.io/github/stars/ariful-xf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ariful-xf)
 
 </div>
 
@@ -68,13 +68,13 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
 
 <div align="center">
 
-![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful97768&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariful-xf&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful97768&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful-xf&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariful97768&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariful-xf&theme=dracula&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ariful97768&theme=dracula&no-frame=true&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ariful-xf&theme=dracula&no-frame=true&margin-w=5)
 
 </div>
 
@@ -85,7 +85,7 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
 <div align="center">
 
 ### 📚 Akademi - Scholarship Management System
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariful97768/Akademi-Scholarships-Management)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariful-xf/Akademi-Scholarships-Management)
 
 **A MERN stack-based Scholarship Management System** with Firebase Auth, Stripe payments, and imgbb for image hosting. Features an Admin Dashboard for managing scholarships and applications, and a Moderator Dashboard for verification. Hosted on Vercel with a secure and scalable backend.
 
@@ -101,7 +101,7 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifulxf@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/Phone-%2B880%201313169776-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801313169776)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariful97768)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariful-xf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariful-axf) 
 
 </div>
@@ -116,7 +116,7 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/ariful97768/ariful97768/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ariful-xf/ariful-xf/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -126,6 +126,6 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
 
 Thanks for stopping by my profile! Feel free to check out my projects, connect with me, or reach out if you'd like to collaborate. Happy coding! 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=ariful97768&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ariful-xf&style=flat-square&color=blue)
 
 </div>
